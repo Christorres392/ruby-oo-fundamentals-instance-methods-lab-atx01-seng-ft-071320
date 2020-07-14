@@ -9,9 +9,9 @@ end
 
 class Person
   def talk
-     "Hello World!"
+     p "Hello World!"
   def walk
-     "The Person is walking"
+     p "The Person is walking"
   end  
   end
 end
